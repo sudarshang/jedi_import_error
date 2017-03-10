@@ -1,0 +1,2 @@
+class JediImportCounter(object):
+    pass
